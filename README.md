@@ -1,5 +1,5 @@
-<b>Place the ichat folder inside xampp/htdocs/</b>
-</b>Create a database named 'ichat' and import the sql file placed in database folder(ichat/database/ichat.sql)</b>
+<b>Place the ichat folder inside xampp/htdocs/</b> <br>
+<b>Create a database named 'ichat' and import the sql file placed in database folder(ichat/database/ichat.sql)</b>
 
 ![localhost_ichat_chatarea php_](https://github.com/abdulhaseeb456/ichat-php-ajax-working-chat-application/assets/99570180/3353c2f1-e8eb-49c6-be65-2a3b115377bc)
 ![localhost_ichat_signup php](https://github.com/abdulhaseeb456/ichat-php-ajax-working-chat-application/assets/99570180/8ad4d612-77f9-4a4b-8e53-507a863175b0)
